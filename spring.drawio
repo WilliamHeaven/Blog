@@ -4,8 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ouxITJuBnf-tcr71eJhk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ouxITJuBnf-tcr71eJhk-1" target="ouxITJuBnf-tcr71eJhk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ouxITJuBnf-tcr71eJhk-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;反射&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ouxITJuBnf-tcr71eJhk-5">
+          <mxGeometry x="0.1739" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ouxITJuBnf-tcr71eJhk-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;工厂&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="264" y="378" width="90" height="30" as="geometry" />
+          <mxGeometry x="277" y="263" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ouxITJuBnf-tcr71eJhk-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;容器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="284" y="416" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ouxITJuBnf-tcr71eJhk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ouxITJuBnf-tcr71eJhk-4" target="ouxITJuBnf-tcr71eJhk-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ouxITJuBnf-tcr71eJhk-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;入库&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ouxITJuBnf-tcr71eJhk-8">
+          <mxGeometry x="-0.6308" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ouxITJuBnf-tcr71eJhk-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;创建对象&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="163" y="347" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
