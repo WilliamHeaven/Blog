@@ -47,8 +47,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ouxITJuBnf-tcr71eJhk-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;使用对象&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="501" y="321" width="90" height="30" as="geometry" />
+        <mxCell id="ouxITJuBnf-tcr71eJhk-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Bean的定义和依赖关系(xml)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="501" y="321" width="242" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
