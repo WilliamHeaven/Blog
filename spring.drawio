@@ -34,8 +34,18 @@
         <mxCell id="ouxITJuBnf-tcr71eJhk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ouxITJuBnf-tcr71eJhk-10" target="ouxITJuBnf-tcr71eJhk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ouxITJuBnf-tcr71eJhk-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;生产&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ouxITJuBnf-tcr71eJhk-11">
+          <mxGeometry x="0.0208" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ouxITJuBnf-tcr71eJhk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ouxITJuBnf-tcr71eJhk-10" target="ouxITJuBnf-tcr71eJhk-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ouxITJuBnf-tcr71eJhk-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;使用已有对象&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ouxITJuBnf-tcr71eJhk-12">
+          <mxGeometry x="-0.5992" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ouxITJuBnf-tcr71eJhk-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;使用对象&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="501" y="321" width="90" height="30" as="geometry" />
